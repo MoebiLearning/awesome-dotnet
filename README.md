@@ -22,7 +22,7 @@ A high quality list of resource of dotnet, this will principal concentrate for l
  - [Concurrecy With .NET](https://www.manning.com/books/concurrency-in-dot-net)
  - [Pro .NET Memory Management](https://prodotnetmemory.com/)
  - [Pro Benchmarking](https://www.amazon.com/Pro-NET-Benchmarking-Performance-Measurement/dp/1484249402)
- - [Writing Hih-Performance .NET] (https://www.writinghighperf.net/)
+ - [Writing Hih-Performance .NET](https://www.writinghighperf.net/)
 
 # Courses
 ## Basics
